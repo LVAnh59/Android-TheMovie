@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">The Movie</string>
+    <string name="title_activity_discover">MainActivity</string>
+    <string name="title_discover">Khám phá</string>
+    <string name="title_upcoming">Sắp Khởi Chiếu</string>
+    <string name="title_watchlist">Phim Đã Xem</string>
+    <string name="title_profile">Trang Cá Nhân</string>
+    <string name="title_new_in_week">Phim Mới Trong Tuần</string>
+    <string name="title_top_rated">Xem Nhiều Nhất</string>
+
+</resources>

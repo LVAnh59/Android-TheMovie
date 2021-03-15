@@ -5,6 +5,7 @@
     <string name="title_upcoming">Upcoming</string>
     <string name="title_watchlist">Watchlist</string>
     <string name="title_profile">Profile</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_new_in_week">New Movies In Week</string>
+    <string name="title_top_rated">Top Rated</string>
+    <string name="char_percent" translatable="false">%</string>
 </resources>
